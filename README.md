@@ -1,4 +1,4 @@
-<h1>Cartão de Crédito Online!</h1>
+<h1>Cartão de Crédito!</h1>
 <p>Nesse projeto foi realizado um simulador de cartão de crédito de acordo com o saldo do cliente. Com espaço para colocar a descrição da sua compra, valor e opções para sair ou continuar. No final mostrando o saldo devedor.</p>
 <h2>Imagens do projeto</h2>
 <div>
